@@ -22,6 +22,7 @@ dense region caption
 ![](./pictures/deneseRegionCaption.png)
 
 ### 支持的视觉任务类型
+该模型能够通过更改提示来执行不同的任务。
 
 ![](./pictures/tasks-type.png)
 
